@@ -1,0 +1,6 @@
+{
+  "name": "RecruitPulse - 部署・ID別 採用広告集計ダッシュボード",
+  "description": "部署とIDを基準に集計日ごとの各指標をグラフ化し、集計日ベースの月単位集計・Google Sheets連携を行う採用広告分析ダッシュボード。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
